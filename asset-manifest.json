@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/rachels-website/static/css/main.2971e82b.css",
+    "main.js": "/rachels-website/static/js/main.2fed15b3.js",
+    "static/js/787.b227556b.chunk.js": "/rachels-website/static/js/787.b227556b.chunk.js",
+    "static/media/portitem2.jpeg": "/rachels-website/static/media/portitem2.d2e792c82f90d46f0daf.jpeg",
+    "static/media/sitebg2.jpg": "/rachels-website/static/media/sitebg2.6760bf4bbc59d49ed538.jpg",
+    "static/media/portitem1.jpeg": "/rachels-website/static/media/portitem1.f2a606f1c30c948954d0.jpeg",
+    "index.html": "/rachels-website/index.html",
+    "main.2971e82b.css.map": "/rachels-website/static/css/main.2971e82b.css.map",
+    "main.2fed15b3.js.map": "/rachels-website/static/js/main.2fed15b3.js.map",
+    "787.b227556b.chunk.js.map": "/rachels-website/static/js/787.b227556b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2971e82b.css",
+    "static/js/main.2fed15b3.js"
+  ]
+}
